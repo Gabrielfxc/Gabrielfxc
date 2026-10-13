@@ -104,22 +104,22 @@ Estou construindo minha base técnica em programação, banco de dados, análise
 <div align="center">
 
 <a href="https://github.com/Gabrielfxc">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=7B61FF&text_color=C9D1D9&include_all_commits=true" alt="Estatísticas do GitHub"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gabrielfxc&show_icons=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=7B61FF&text_color=C9D1D9&include_all_commits=true" alt="Estatísticas do GitHub"/>
 </a>
 <a href="https://github.com/Gabrielfxc">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=C9D1D9&langs_count=8" alt="Linguagens mais utilizadas"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielfxc&layout=compact&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=C9D1D9&langs_count=8" alt="Linguagens mais utilizadas"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/GabrielfxcO">
-<img width="75%" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=transparent&hide_border=true&background=050816&ring=00E5FF&fire=7B61FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Sequência de contribuições"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=Gabrielfxc&theme=transparent&hide_border=true&background=050816&ring=00E5FF&fire=7B61FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Sequência de contribuições"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Gabrielfxc">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=050816&color=C9D1D9&line=00E5FF&point=7B61FF&area=true&hide_border=true&custom_title=Atividade%20no%20GitHub" alt="Gráfico de atividade no GitHub"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gabrielfxc&bg_color=050816&color=C9D1D9&line=00E5FF&point=7B61FF&area=true&hide_border=true&custom_title=Atividade%20no%20GitHub" alt="Gráfico de atividade no GitHub"/>
 </a>
 
 </div>
