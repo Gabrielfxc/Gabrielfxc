@@ -18,7 +18,6 @@ Gabrielfxc
 
 [![GitHub](https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/Gabrielfxc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/in/gabriel-costa05112007)
-/)
 [![E-mail](https://img.shields.io/badge/E--mail-050816?style=for-the-badge&logo=gmail&logoColor=00E5FF)](mailto:gabrielfxc@gmail.com)
 
 </div>
@@ -156,7 +155,7 @@ Estou aberto a oportunidades de estágio, aprendizado, troca de conhecimentos e 
 <a href="https://github.com/Gabrielfxc">
 <img src="https://img.shields.io/badge/GitHub-Conhe%C3%A7a%20meus%20projetos-050816?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/gabriel-costa05112007/">
+<a href="https://www.linkedin.com/in/gabriel-costa05112007">
 <img src="https://img.shields.io/badge/LinkedIn-Vamos%20nos%20conectar-050816?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/>
 </a>
 <a href="mailto:gabrielfxc@gmail.com">
