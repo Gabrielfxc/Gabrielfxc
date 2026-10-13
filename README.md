@@ -17,7 +17,7 @@ Gabrielfxc
 <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/Gabrielfxc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/in/www.linkedin.com/in/gabriel-costa05112007/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/in/www.linkedin.com/in/[gabriel-costa05112007](https://www.linkedin.com/in/gabriel-costa05112007/?isSelfProfile=true)/)
 [![E-mail](https://img.shields.io/badge/E--mail-050816?style=for-the-badge&logo=gmail&logoColor=00E5FF)](mailto:gabrielfxc@gmail.com)
 
 </div>
